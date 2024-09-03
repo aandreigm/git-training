@@ -2,4 +2,4 @@
 Git training Udemy
 
 This is a test
-Anither test
+Anuther tost
